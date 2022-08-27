@@ -34,4 +34,4 @@ IntelliJ의 우측 탭에 'Gradle'탭을 클릭 후
 
 후 실행 하면 정상적으로 동작한다.
 
-![img_1.png](img_1.png)
+![img_1.png](#1_1.png)
